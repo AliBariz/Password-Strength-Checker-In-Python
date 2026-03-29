@@ -23,4 +23,4 @@ It then provides a **strength rating**: Weak ⚠️, Moderate 😐, Strong 👍,
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/AliBariz/Password Strength Checker.git
+   https://github.com/AliBariz/Password-Strength-Checker-In-Python.git
